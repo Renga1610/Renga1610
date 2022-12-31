@@ -8,3 +8,9 @@
 Renga1610/Renga1610 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+This is a Stable DIffusion based Lyric Video Generation Project.
+
+I have used MusixMatch API to get lyrics and generated lyric using Stable Diffusion.
+
+Timestamp data and audio data is not available. So, i have given equal timespace for each sentence in a lyric
