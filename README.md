@@ -14,3 +14,5 @@ This is a Stable DIffusion based Lyric Video Generation Project.
 I have used MusixMatch API to get lyrics and generated lyric using Stable Diffusion.
 
 Timestamp data and audio data is not available. So, i have given equal timespace for each sentence in a lyric
+
+Check out the lyric_video.gif file for the output
